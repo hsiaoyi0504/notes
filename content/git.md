@@ -1,4 +1,6 @@
-# Git Learning Resources
+# git
+
+## Resources
 
 * Basic:
   * [為自己學git](https://gitbook.tw/)
@@ -9,5 +11,7 @@
   * git hook
   * git reflog
   * ORIG_HEAD
-* FAQ
-  * [Rename master branch for both local and remote Git repositories](http://stackoverflow.com/questions/1526794/rename-master-branch-for-both-local-and-remote-git-repositories)
+
+## FAQ
+
+* [Rename master branch for both local and remote Git repositories](http://stackoverflow.com/questions/1526794/rename-master-branch-for-both-local-and-remote-git-repositories)

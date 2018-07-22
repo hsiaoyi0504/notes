@@ -11,6 +11,7 @@ Welcome to Yi Hsiao's notes!
    :caption: Contents:
 
    content/git
+   content/python
 
 
 
