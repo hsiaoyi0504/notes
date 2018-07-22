@@ -12,6 +12,7 @@ Welcome to Yi Hsiao's notes!
 
    content/git
    content/python
+   content/shell
 
 
 
