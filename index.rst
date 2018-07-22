@@ -10,6 +10,8 @@ Welcome to Yi Hsiao's notes!
    :maxdepth: 2
    :caption: Contents:
 
+   content/git
+
 
 
 Indices and tables
