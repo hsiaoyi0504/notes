@@ -13,6 +13,8 @@ Welcome to Yi Hsiao's notes!
    content/git
    content/python
    content/shell
+   content/ssh
+   content/docker
 
 
 
