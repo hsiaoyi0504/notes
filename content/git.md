@@ -3,6 +3,7 @@
 ## Resources
 
 * Basic:
+  * [連猴子都能懂的Git入門指南](https://backlog.com/git-tutorial/tw/)
   * [為自己學git](https://gitbook.tw/)
     * Supplementary
       * [Understanding git for real by exploring the .git directory](https://medium.freecodecamp.org/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807)
