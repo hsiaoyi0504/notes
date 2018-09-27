@@ -16,3 +16,4 @@
 ## FAQ
 
 * [Rename master branch for both local and remote Git repositories](http://stackoverflow.com/questions/1526794/rename-master-branch-for-both-local-and-remote-git-repositories)
+* [How to remove tag locally and remotely](https://gist.github.com/mobilemind/7883996)
