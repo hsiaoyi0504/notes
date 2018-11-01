@@ -15,6 +15,7 @@ Welcome to Yi Hsiao's notes!
    content/shell
    content/ssh
    content/docker
+   content/gdc
 
 
 
