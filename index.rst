@@ -14,6 +14,7 @@ Welcome to Yi Hsiao's notes!
    content/python
    content/shell
    content/ssh
+   content/aws
    content/docker
 
 
