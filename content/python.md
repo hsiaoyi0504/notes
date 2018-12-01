@@ -4,6 +4,11 @@
 
 * [The "Python Machine Learning" book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
 
+## Pandas
+
+* [10 Minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
+* [Creating Pandas DataFrames from Lists and Dictionaries](http://pbpython.com/pandas-list-dict.html)
+
 ## FAQ
 
 * [How do I check whether a file exists using Python?](http://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-using-python)
