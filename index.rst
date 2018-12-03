@@ -16,6 +16,7 @@ Welcome to Yi Hsiao's notes!
    content/ssh
    content/aws
    content/docker
+   content/bioinformatics
 
 
 
