@@ -4,6 +4,10 @@
 
 * [The "Python Machine Learning" book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
 
+## Articles
+
+* [Dictionaries in Python (not only default one)](https://dbader.org/blog/python-dictionaries-maps-and-hashtables)
+
 ## Pandas
 
 * [10 Minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
