@@ -23,4 +23,4 @@
 * [What is the purpose of self?](http://stackoverflow.com/questions/2709821/what-is-the-purpose-of-self)
 * [How can I print all arguments passed to a python script?](https://stackoverflow.com/questions/8542725/how-can-i-print-all-arguments-passed-to-a-python-script)
 * [Delete an item from a dictionary](http://stackoverflow.com/questions/5844672/delete-an-item-from-a-dictionary)
-* ［Differnece between \_\_repr\_\_ and \_\_str\_\_］(https://stackoverflow.com/questions/1436703/difference-between-str-and-repr
+* [Differnece between \_\_repr\_\_ and \_\_str\_\_](https://stackoverflow.com/questions/1436703/difference-between-str-and-repr)
