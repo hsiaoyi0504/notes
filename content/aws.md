@@ -1,14 +1,20 @@
 # AWS (Linux)
 
-## enable password login
+## Enable password login
 
 - Check [this](https://aws.amazon.com/premiumsupport/knowledge-center/ec2-password-login/) first
+
+## Add a user
 - `sudo adduser [user name]`
 - `sudo password [user name]`
 
 ## Change user name
 
 - Check [this](https://serverfault.com/questions/437342/how-can-i-rename-an-unix-user)
+
+## Add sudo user
+
+- Check [this](https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-centos-quickstart)
 
 ## Steps to expand EBS disk size
 
