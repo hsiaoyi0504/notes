@@ -18,3 +18,11 @@
 - Remove the <none> images
 
   `docker images -f "dangling=true" -q`
+
+- Rename the image
+  ``` shell
+
+    docker tag <old_name> <new_name>
+    docker rmi <old_name>
+
+  ```
