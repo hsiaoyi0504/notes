@@ -1,5 +1,12 @@
 # Shell script
 
+## Cheatsheet
+
+* get current directory of the script that is performed
+  ```shell
+  DIR="$( cd "$( dirname "$0" )" && pwd )"
+  ```
+
 ## FAQ
 
 * [How to redirect output to a file and stdout?](http://stackoverflow.com/questions/418896/how-to-redirect-output-to-a-file-and-stdout)
