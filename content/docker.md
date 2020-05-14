@@ -26,3 +26,6 @@
     docker rmi <old_name>
 
   ```
+
+# Kubernetes-related
+- Be careful about the `WORK_DIR` when using `kubectl cp` https://github.com/kubernetes/kubernetes/issues/58692
