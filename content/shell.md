@@ -6,6 +6,10 @@
   ```shell
   DIR="$( cd "$( dirname "$0" )" && pwd )"
   ```
+* rsync
+  ``` shell
+  rsync -avzh /mypath/myfile.gz pi@192.168.1.12:/mybackup/
+  ```
 
 ## FAQ
 
