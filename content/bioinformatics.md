@@ -14,3 +14,4 @@
 ## Manuscript-related
 
 * [Which Font Looks Best in a Figure?](https://pubs.acs.org/doi/10.1021/acs.chemmater.6b00306)
+* [How to write a manuscript by Springer Nature](https://www.springernature.com/gp/authors/campaigns/writing-a-manuscript)
