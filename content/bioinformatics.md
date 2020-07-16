@@ -10,6 +10,7 @@
 * Tools for coverage analysis: [1](https://www.omixon.com/workflow-wednesdays-coverage-analysis-1/), [2](https://www.omixon.com/workflow-wednesdays-coverage-analysis-2-and-other-alignment-statistics/)
 * [WES and RNA-seq difference](https://www.reddit.com/r/bioinformatics/comments/6vkxvi/when_to_use_wes_vs_rnaseq/)
 * [BAM Tricks](https://github.com/IARCbioinfo/BAM-tricks)
+* [How to check if duplicate reads are marked in bam file?](https://www.biostars.org/p/196742/)
 
 ## Manuscript-related
 
