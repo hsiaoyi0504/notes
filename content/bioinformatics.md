@@ -1,5 +1,12 @@
 # Bioinformatics
 
+## Environment setup
+
+* R
+  - On MacOS, use `brew cask install r-apps` rather than `brew install r`
+
+## 
+
 * [Frequent File Formats](https://genome.ucsc.edu/FAQ/FAQformat.html)
 * [Installation of samtools](https://www.biostars.org/p/328831/)
 * [Which human reference genome to use?](https://lh3.github.io/2017/11/13/which-human-reference-genome-to-use)
