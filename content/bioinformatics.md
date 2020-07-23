@@ -9,6 +9,7 @@
 
 * [Reference genomes and Gene models: Impact on variant interpretation](https://bioinfo-diag.fr/wp-content/uploads/2019/10/BioinfoDiag_2019_EAY.pdf)
 * [Which human reference genome to use?](https://lh3.github.io/2017/11/13/which-human-reference-genome-to-use)
+* [hs37d5 information](ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/technical/reference/phase2_reference_assembly_sequence/)
 
 ## Misc
 
