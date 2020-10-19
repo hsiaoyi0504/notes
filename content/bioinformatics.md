@@ -28,3 +28,12 @@
 
 * [Which Font Looks Best in a Figure?](https://pubs.acs.org/doi/10.1021/acs.chemmater.6b00306)
 * [How to write a manuscript by Springer Nature](https://www.springernature.com/gp/authors/campaigns/writing-a-manuscript)
+* [Rainbow Color Map (Still) Considered Harmful](https://ieeexplore.ieee.org/document/4118486)
+  * Related materials:
+    * `viridis`, `magma`, `plasma`, and `inferno` are colormaps recommended to be used in R.
+    * for automatic alignment in R:
+      * ggplot facet layout: [facet_wrap](http://www.cookbook-r.com/Graphs/Facets_(ggplot2)/#facetwrap)
+      * [Cowplot::plot_grid](https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html)
+      * [gridExtra::arrange.grid](https://cran.r-project.org/web/packages/gridExtra/vignettes/arrangeGrob.html)
+      
+    
