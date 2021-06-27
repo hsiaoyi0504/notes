@@ -20,3 +20,4 @@
 
 * [Rename master branch for both local and remote Git repositories](http://stackoverflow.com/questions/1526794/rename-master-branch-for-both-local-and-remote-git-repositories)
 * [How to remove tag locally and remotely](https://gist.github.com/mobilemind/7883996)
+* [How to break a commit into multiple commmits](https://stackoverflow.com/questions/6217156/break-a-previous-commit-into-multiple-commits)
